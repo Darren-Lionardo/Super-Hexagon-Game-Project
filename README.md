@@ -6,8 +6,5 @@ So don't expect much, cause the arts are just plain and simple lol
 
 But the mechanics are there :)
 
-Unfortunately, i couldn't upload the full released game into github...
-The file size's massive
-
-Sorry
-Hoo Hoo :(
+If you want to try it, you can play it yourself...
+Enjoy!
